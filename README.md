@@ -48,18 +48,18 @@ Tecnologias que estudo e utilizo nos meus projetos:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🔧 Assistência Gtech</h3>
+      <p align="center"><img src="https://skillicons.dev/icons?i=java,spring,mysql,react,ts" height="36" alt="Java, Spring Boot, MySQL, React e TypeScript" /></p>
+      <p>Sistema em desenvolvimento para gestão de assistência técnica, com foco atual no controle de estoque, movimentações e histórico de peças.</p>
+      <p><strong>Prática:</strong> API com Java e Spring Boot, persistência em MySQL e integração com uma interface React e TypeScript.</p>
+      <p align="center"><a href="https://github.com/Molinexxx/Assistencia-Gtech">Ver repositório →</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">💈 Sistema para Barbearia</h3>
       <p align="center"><img src="https://skillicons.dev/icons?i=php,mysql" height="36" alt="PHP e MySQL" /></p>
       <p>Sistema web voltado à gestão de uma barbearia, com foco em cadastros, organização de atendimentos e rotinas administrativas.</p>
       <p><strong>Prática:</strong> operações CRUD, persistência de dados e organização dos fluxos do sistema.</p>
       <p align="center"><a href="https://github.com/Molinexxx/project-barbearia">Ver repositório →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☕ CRUD em Java</h3>
-      <p align="center"><img src="https://skillicons.dev/icons?i=java" height="36" alt="Java" /></p>
-      <p>Aplicação de estudo para praticar as operações de cadastro, consulta, edição e exclusão de dados utilizando Java.</p>
-      <p><strong>Prática:</strong> lógica de programação, manipulação de dados e organização das responsabilidades do código.</p>
-      <p align="center"><a href="https://github.com/Molinexxx/Crud-em-java">Ver repositório →</a></p>
     </td>
   </tr>
   <tr>

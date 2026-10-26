@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Kaua Molina — Desenvolvimento web e backend" width="100%" />
 </p>
 
-<h3 align="center">Estudante de Engenharia de Software · Java · PHP · MySQL</h3>
+<h3 align="center">Estudante de Engenharia de Software · Estudos em Java e Banco de Dados</h3>
 
 <p align="center">Transformando aprendizado em sistemas web, projetos práticos e novas possibilidades.</p>
 
@@ -18,22 +18,26 @@
 
 Olá! Sou **Kaua Molina**, estudante de **Engenharia de Software** com foco em **desenvolvimento web e backend**.
 
-Tenho direcionado meus estudos para **Java, PHP e bancos de dados**, aplicando esses conhecimentos em projetos de cadastro, gestão e aplicações interativas. Gosto de entender como as partes de um sistema se conectam, da interface à persistência dos dados.
+Atualmente, concentro meus estudos em **Java e bancos de dados**, desenvolvendo minha base técnica e aplicando o que aprendo em projetos práticos. Também tive contato com **PHP**, linguagem na qual possuo conhecimentos básicos de fundamentos.
 
 Busco minha **primeira oportunidade na área de desenvolvimento**, para contribuir com projetos reais, aprender com a equipe e evoluir como desenvolvedor.
 
 - 🎓 **Formação:** Engenharia de Software em andamento.
 - 🔧 **Prática:** lógica de programação, operações CRUD e sistemas web.
-- 🌱 **Foco de estudo:** backend, organização de código e integração com banco de dados.
+- 🌱 **Foco de estudo:** Java, bancos de dados e fundamentos de desenvolvimento.
 - 🤝 **Interesse profissional:** oportunidades de estágio e início de carreira em desenvolvimento.
 
 ## 🛠️ Tecnologias e ferramentas
 
 Tecnologias que estudo e utilizo nos meus projetos:
 
-**Backend e linguagens**
+**Java — foco atual de estudo**
 
-<p><img src="https://skillicons.dev/icons?i=java,php" alt="Java e PHP" /></p>
+<p><img src="https://skillicons.dev/icons?i=java" alt="Java" /></p>
+
+**PHP — conhecimentos básicos de fundamentos**
+
+<p><img src="https://skillicons.dev/icons?i=php" alt="PHP — conhecimentos básicos" /></p>
 
 **Interfaces web**
 
@@ -84,11 +88,11 @@ Tecnologias que estudo e utilizo nos meus projetos:
 
 ## 🎯 Meu foco agora
 
-> Consolidar minha base em Java e PHP, conectar aplicações a bancos de dados e construir sistemas cada vez mais organizados e funcionais.
+> Desenvolver minhas habilidades para conquistar uma oportunidade de trabalho em tecnologia e continuar evoluindo na minha carreira. Atualmente, meu foco de estudo está em Java e bancos de dados.
 
-- Aprofundar fundamentos de backend e lógica de programação.
-- Evoluir os projetos com atenção à estrutura do código e aos fluxos de uso.
-- Documentar soluções e compartilhar minha evolução pelo GitHub e pelo portfólio.
+- Fortalecer minha base em Java e lógica de programação.
+- Aprofundar meus conhecimentos em bancos de dados e na integração com aplicações.
+- Aplicar o aprendizado em projetos práticos para me preparar para os desafios do trabalho em tecnologia.
 
 ---
 
